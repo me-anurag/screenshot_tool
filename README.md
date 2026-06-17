@@ -1,5 +1,28 @@
 <div align="center">
-  <img src="banner.svg" alt="Screenshot Tool Banner" width="100%" />
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <g transform="translate(360,80)">
+    <rect x="0" y="20" width="70" height="50" rx="10"
+          fill="none" stroke="#60a5fa" stroke-width="3"/>
+    <rect x="15" y="0" width="18" height="20" rx="3"
+          fill="none" stroke="#60a5fa" stroke-width="3"/>
+    <circle cx="35" cy="45" r="12"
+            fill="none" stroke="#60a5fa" stroke-width="3"/>
+  </g>
+  <text x="470" y="160"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="52"
+        font-weight="600"
+        fill="#ffffff">
+    Screenshot Tool
+  </text>
+</svg>
 </div>
 
 <br/>
